@@ -1,0 +1,18 @@
+{
+  "block.wider_ender_chests.iron_ender_chest": "Железный Эндер-сундук",
+  "block.wider_ender_chests.copper_ender_chest": "Медный Эндер-сундук",
+  "block.wider_ender_chests.gold_ender_chest": "Золотой Эндер-сундук",
+  "block.wider_ender_chests.lapis_ender_chest": "Лазуритовый Эндер-сундук",
+  "block.wider_ender_chests.redstone_ender_chest": "Редстоуновый Эндер-сундук",
+  "block.wider_ender_chests.diamond_ender_chest": "Алмазный Эндер-сундук",
+  "block.wider_ender_chests.emerald_ender_chest": "Изумрудный Эндер-сундук",
+  "block.wider_ender_chests.netherite_ender_chest": "Незеритовый Эндер-сундук",
+  "container.enderchest.iron": "  Железный Эндер-сундук",
+  "container.enderchest.copper": "  Медный Эндер-сундук",
+  "container.enderchest.gold": "  Золотой Эндер-сундук",
+  "container.enderchest.lapis": "  Лазуритовый Эндер-сундук",
+  "container.enderchest.redstone": "  Редстоуновый Эндер-сундук",
+  "container.enderchest.diamond": "  Алмазный Эндер-сундук",
+  "container.enderchest.emerald": "  Изумрудный Эндер-сундук",
+  "container.enderchest.netherite": "  Незеритовый Эндер-сундук"
+}
