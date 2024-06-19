@@ -7,21 +7,23 @@
 ## Моды:
 
 ### Main
-| Название               | Версия | Описание          | Ссылка                                                                                       | Дата     | Lang  | Children            |
-|:-----------------------|:-------|:------------------|:---------------------------------------------------------------------------------------------|:---------|:------|:--------------------|
-| Bed Benefits           | 14.0.2 | Сон               | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)                      | 18.06.24 | None  | Bookshelf           |
-| Cooking for Blockheads | 17.0.1 | Кухня             | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads-fabric)     | 03.06.24 | None  | Balm                |
-| DungeonsAriseSevenSeas | 1.0.2  | Корабли пиратов   | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-seven-seas)    | 19.05.24 | None  | None                |
-| Fishing Paradise       | 1.1    | Рыбалка           | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fishingparadise)                   | 31.05.24 | Ru    | None                |
-| JourneyMap             | 5.9.21 | Карта             | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/journeymap)                        | 19.05.24 | Ru    | None                |
-| MVS                    | 4.1.2  | Постройки         | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)          | 19.05.24 | None  | None                |
-| More Culling           | 0.24.0 | Оптимизация       | [Modrinth](https://modrinth.com/mod/moreculling/version/0.24.0)                              | 18.06.24 | None  | Cloth Config API    |
-| MultiBeds              | 1.3    | Кровати           | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/multibeds-fabric)                  | 19.05.24 | Eng   | ShetiPhianCore      |
-| SkyVillages            | 1.0.4  | Деревни в облаках | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sky-villages-fabric)               | 03.06.24 | None  | None                |
-| TrimsEffects           | 1.3.1  | Эффекты Сэта      | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/trimseffects)                      | 18.06.24 | None  | None                |
-| Warp-portals           | 1.3.12 | Телепорты         | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/warp-portals-portal-teleportation) | 03.06.24 | None  | None                |
-| Wider Ender Chests     | 1.0.2  | Эндер-сундуки     | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/wider-ender-chests)                | 18.06.24 | Ru    | Cloth Config API    |
-| Deeper and Darker      | 1.2.6  | Подземный контент | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/deeperdarker)                      | 18.06.24 | Ru    | YetAnotherConfigLib |
+| Название               | Версия | Описание          | Ссылка                                                                                       | Дата     | Lang   | Children            |
+|:-----------------------|:-------|:------------------|:---------------------------------------------------------------------------------------------|:---------|:-------|:--------------------|
+| Bed Benefits           | 14.0.2 | Сон               | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)                      | 18.06.24 | None   | Bookshelf           |
+| Cooking for Blockheads | 17.0.1 | Кухня             | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads-fabric)     | 03.06.24 | None   | Balm                |
+| DungeonsAriseSevenSeas | 1.0.2  | Корабли пиратов   | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-seven-seas)    | 19.05.24 | None   | None                |
+| Fishing Paradise       | 1.1    | Рыбалка           | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fishingparadise)                   | 31.05.24 | Ru     | None                |
+| JourneyMap             | 5.9.21 | Карта             | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/journeymap)                        | 19.05.24 | Ru     | None                |
+| MVS                    | 4.1.2  | Постройки         | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures)          | 19.05.24 | None   | None                |
+| More Culling           | 0.24.0 | Оптимизация       | [Modrinth](https://modrinth.com/mod/moreculling/version/0.24.0)                              | 18.06.24 | None   | Cloth Config API    |
+| MultiBeds              | 1.3    | Кровати           | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/multibeds-fabric)                  | 19.05.24 | Eng    | ShetiPhianCore      |
+| SkyVillages            | 1.0.4  | Деревни в облаках | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sky-villages-fabric)               | 03.06.24 | None   | None                |
+| TrimsEffects           | 1.3.1  | Эффекты Сэта      | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/trimseffects)                      | 18.06.24 | None   | None                |
+| Warp-portals           | 1.3.12 | Телепорты         | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/warp-portals-portal-teleportation) | 03.06.24 | None   | None                |
+| Wider Ender Chests     | 1.0.2  | Эндер-сундуки     | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/wider-ender-chests)                | 18.06.24 | Ru     | Cloth Config API    |
+| Deeper and Darker      | 1.2.6  | Подземный контент | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/deeperdarker)                      | 18.06.24 | Ru     | YetAnotherConfigLib |
+| Sodium                 | 0.5.3  | Оптимизация       | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sodium)                            | 19.06.24 | None   | None                |
+| Indium                 | 1.0.27 | Доп               | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/indium)                            | 19.06.24 | None   | None                |
 
 ### Additional
 | Название             | Версия   | Описание | Ссылка                                                                           | Дата     | Lang | Parent                           |
@@ -58,8 +60,6 @@
 - lithium - оптимизация (https://ru-minecraft.ru/mody-minecraft/60748-lithium.html)
 - memoryleakfix - оптимизация (https://ru-minecraft.ru/mody-minecraft/73845-memoryleakfix.html)
 
-- armor_visibility - вкл/выкл снаряжение
-	- ash - system
 - jei - просмотр вещей
 
 - notenoughcrashes - Просмотр вылетов (https://ru-minecraft.ru/mody-minecraft/59843-not-enough-crashes.html)
