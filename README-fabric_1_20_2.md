@@ -38,6 +38,12 @@
 - - disenchanter - разчарование (https://ru-minecraft.ru/mody-minecraft/78218-disenchanter.html)
 	- cloth-config - system (https://ru-minecraft.ru/mody-minecraft/65857-cloth-config-api.html)
 
+moreuseful
+monolib
+showmeyourskin
+cicada
+cardinal
+
 - mcw-lights - лампы
 
 - handcrafted - предметы для дома
