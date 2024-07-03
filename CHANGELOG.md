@@ -1,3 +1,17 @@
+# v.0.4.0
+
+## Description
+- (Update) trimeffects - version 1.1.1 to 1.3.1
+- (ADD) wider_ender_chests - Сундуки Эндера
+- (Refactoring) wider_ender_chests - RU перевод для мода
+- (Update) moreculling - version 0.22.0 to 0.24.0
+- (ADD) deeperdarker - Контент Вардена
+- (ADD) Sodium - Оптимизация
+- (Update) paladin-furniture - version 1.2.0 to 1.2.1
+- (ADD) moreusefulcopper - Контент c Медью
+- (ADD) show-me-your-skin - Вкл/выкл шмотки + прозрачность для всех
+- (del) armor_visibility - Заменили на show-me-your-skin
+
 # v0.3.0
 
 ## Description
