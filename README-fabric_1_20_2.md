@@ -8,7 +8,7 @@
 
 ### Main
 | Название                     | Версия  | Описание          | Ссылка                                                                                       | Дата     | Lang | Libs                                      |
-|:-----------------------------|:--------|:------------------|:---------------------------------------------------------------------------------------------|:---------|:-----|:------------------------------------------|
+|:-----------------------------|:--------|:------------------|:---------------------------------------------------------------------------------------------|:---------|:----:|:------------------------------------------|
 | Advancement Plaques          | 1.5.1   | Уведомления       | [Modrinth](https://modrinth.com/mod/advancement-plaques)                                     | 17.08.24 |      | Iceberg, Prism                            |
 | Amethyst Equipment           | 2.2.0   | Аметист           | [Modrinth](https://modrinth.com/mod/amethyst-equipment)                                      | 16.08.24 |      |                                           |
 | AttributeFix                 | 22.0.3  | Аттрибуты         | [Modrinth](https://modrinth.com/mod/attributefix)                                            | 17.08.24 |      |                                           |
@@ -28,7 +28,7 @@
 | Dungeons Arise: Seven Seas   | 1.0.2   | Корабли           | [Modrinth](https://modrinth.com/mod/when-dungeons-arise-seven-seas/)                         | 15.08.24 |      |                                           |
 | Enchantment Descriptions     | 18.0.7  | Описание Чар      | [Modrinth](https://modrinth.com/mod/enchantment-description)                                 | 15.08.24 |      |                                           | 
 | FabricSkyboxes               | 0.7.3   | Небо              | [Modrinth](https://modrinth.com/mod/fabricskyboxes)                                          | 16.08.24 |      |                                           |
-| Fishing Paradise             | 1.1     | Рыбалка           | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fishingparadise)                   | 31.05.24 | Ru   | None                                      |                 
+| Fishing Paradise             | 1.1     | Рыбалка           | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fishingparadise)                   | 31.05.24 |  Ru  | None                                      |                 
 | Friends&Foes                 | 2.0.16  | Доп мобы          | [Modrinth](https://modrinth.com/mod/friends-and-foes)                                        | 17.08.24 |      |                                           |
 | Friends&Foes - Beekeeper Hut | 2.0.1   | Пчеловод          | [Modrinth](https://modrinth.com/mod/friends-and-foes-beekeeper-hut-fabric)                   | 17.08.24 |      |                                           |
 | HephaesTools                 | 1.4     | Доп инструменты   | [Modrinth](https://modrinth.com/datapack/hephaestools/)                                      | 16.08.24 |      |                                           |
@@ -64,16 +64,17 @@
 
 
 ### Optimisation
-| Название                             | Версия | Ссылка                                                | Дата            | Libs             | 
-|:-------------------------------------|:-------|:------------------------------------------------------|:----------------|:-----------------|
-| BadOptimizations                     | 2.1.4  | [Modrinth](https://modrinth.com/mod/badoptimizations) | 14.08.24        |                  | 
-| Common Network                       | 1.0.6  | [Modrinth](https://modrinth.com/mod/common-network)   | 14.08.24        |                  | 
-| Concurrent Chunk Management Engine   | 0.2.0  | [Modrinth](https://modrinth.com/mod/c2me-fabric)      | 14.08.24        |                  | 
-| Dynamic FPS                          | 3.4.1  | [Modrinth](https://modrinth.com/mod/dynamic-fps)      | 16.08.24        | Cloth Config API | 
-| Entity Culling                       | 1.6.6  | [Modrinth](https://modrinth.com/mod/entityculling)    | 15.08.24        |                  | 
-| FerriteCore                          | 6.0.1  | [Modrinth](https://modrinth.com/mod/ferrite-core)     | 17.08.24        |                  | 
-| Lithium                              | 0.12.0 | [Modrinth](https://modrinth.com/mod/lithium)          | 16.08.24        |                  | 
-| Server Tick                          | 1.9    | [Modrinth](https://modrinth.com/mod/servertick)       | 03.07.24        |                  | 
+| Название                            | Версия  | Ссылка                                                | Дата     | Libs             | 
+|:------------------------------------|:--------|:------------------------------------------------------|:---------|:-----------------|
+| BadOptimizations                    | 2.1.4   | [Modrinth](https://modrinth.com/mod/badoptimizations) | 14.08.24 |                  | 
+| Common Network                      | 1.0.6   | [Modrinth](https://modrinth.com/mod/common-network)   | 14.08.24 |                  | 
+| Concurrent Chunk Management Engine  | 0.2.0   | [Modrinth](https://modrinth.com/mod/c2me-fabric)      | 14.08.24 |                  | 
+| Dynamic FPS                         | 3.4.1   | [Modrinth](https://modrinth.com/mod/dynamic-fps)      | 16.08.24 | Cloth Config API | 
+| Entity Culling                      | 1.6.6   | [Modrinth](https://modrinth.com/mod/entityculling)    | 15.08.24 |                  | 
+| FerriteCore                         | 6.0.1   | [Modrinth](https://modrinth.com/mod/ferrite-core)     | 17.08.24 |                  | 
+| Lithium                             | 0.12.0  | [Modrinth](https://modrinth.com/mod/lithium)          | 16.08.24 |                  | 
+| Server Tick                         | 1.9     | [Modrinth](https://modrinth.com/mod/servertick)       | 03.07.24 |                  | 
+| Starlight                           | 1.1.3   | [Modrinth](https://modrinth.com/mod/starlight)        | 17.08.24 |                  | 
 
 
 ### Lib
